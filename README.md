@@ -3,9 +3,9 @@
 An open-source email marketing solution that seamlessly integrates with your existing Next.js applications. Powered by [valerie-email-builder](https://github.com/yourusername/valerie-email-builder) and Resend.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Next.js](https://img.shields.io/badge/Next.js-14+-black)](https://nextjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-15+-black)](https://nextjs.org)
 
-![ValerieMail Screenshot](https://via.placeholder.com/800x400?text=ValerieMail)
+![ValerieMail Screenshot]([https://via.placeholder.com/800x400?text=ValerieMail](https://fakeimg.pl/400x400/25277d/ffffff?text=ValerieMail))
 
 ## Features
 
